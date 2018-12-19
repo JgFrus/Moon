@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Moon.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{57669C5F-0EEC-46A5-8CF3-5EAE1022D318}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Moon.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\MoonEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{17DB83FC-87F5-4B44-9F36-4A8738B760B2}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Moon">
+			<UniqueIdentifier>{76060203-02AD-4312-B290-C7D70AF08969}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Moon\Moon.Build.cs">
+			<Filter>Source\Moon</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Moon\Moon.cpp">
+			<Filter>Source\Moon</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Moon\Moon.h">
+			<Filter>Source\Moon</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Moon\MoonCharacter.cpp">
+			<Filter>Source\Moon</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Moon\MoonCharacter.h">
+			<Filter>Source\Moon</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Moon\MoonGameMode.cpp">
+			<Filter>Source\Moon</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Moon\MoonGameMode.h">
+			<Filter>Source\Moon</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
