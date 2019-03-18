@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Moon.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\shado\OneDrive\Documentos\GitHub\Moon\Moon 4.21 - 2\Intermediate\Build\Win64\MoonEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\shado\OneDrive\Documentos\GitHub\Moon\Moon 4.21 - 2\Intermediate\Build\Win64\UE4Editor\Development\Moon\Moon.cpp.obj"
+"C:\Users\shado\OneDrive\Documentos\GitHub\Moon\Moon 4.21 - 2\Intermediate\Build\Win64\UE4Editor\Development\Moon\MoonCharacter.cpp.obj"
+"C:\Users\shado\OneDrive\Documentos\GitHub\Moon\Moon 4.21 - 2\Intermediate\Build\Win64\UE4Editor\Development\Moon\MoonGameMode.cpp.obj"
+"C:\Users\shado\OneDrive\Documentos\GitHub\Moon\Moon 4.21 - 2\Intermediate\Build\Win64\UE4Editor\Development\Moon\Moon.init.gen.cpp.obj"
+"C:\Users\shado\OneDrive\Documentos\GitHub\Moon\Moon 4.21 - 2\Intermediate\Build\Win64\UE4Editor\Development\Moon\MoonCharacter.gen.cpp.obj"
+"C:\Users\shado\OneDrive\Documentos\GitHub\Moon\Moon 4.21 - 2\Intermediate\Build\Win64\UE4Editor\Development\Moon\MoonGameMode.gen.cpp.obj"
+"C:\Users\shado\OneDrive\Documentos\GitHub\Moon\Moon 4.21 - 2\Intermediate\Build\Win64\UE4Editor\Development\Moon\PCLaunch.rc.res"
+/OUT:"C:\Users\shado\OneDrive\Documentos\GitHub\Moon\Moon 4.21 - 2\Intermediate\Build\Win64\UE4Editor\Development\Moon\UE4Editor-Moon.lib"

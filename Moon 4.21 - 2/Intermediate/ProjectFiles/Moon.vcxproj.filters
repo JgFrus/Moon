@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Moon.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1B4DB77B-291E-4B31-A6E0-5A692128AB2D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Moon.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MoonEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{12A00084-3DF7-4621-AEFA-F2F7FC10191F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Moon">
+      <UniqueIdentifier>{3A67CAA4-BB7B-4784-BD66-ABAEFF57E694}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Moon\Moon.Build.cs">
+      <Filter>Source\Moon</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Moon\Moon.cpp">
+      <Filter>Source\Moon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Moon\Moon.h">
+      <Filter>Source\Moon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Moon\MoonCharacter.cpp">
+      <Filter>Source\Moon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Moon\MoonCharacter.h">
+      <Filter>Source\Moon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Moon\MoonGameMode.cpp">
+      <Filter>Source\Moon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Moon\MoonGameMode.h">
+      <Filter>Source\Moon</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
